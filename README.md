@@ -16,5 +16,5 @@ Cat- this command lets users see the contents of the file
 
 Grep- the command lets users search for specific texts inside files.
 	Example of this, grep “Hello” testfile.txt
-				Output “Hello world” 
+				Output “Hello world” (Hello is highlighted)
 
